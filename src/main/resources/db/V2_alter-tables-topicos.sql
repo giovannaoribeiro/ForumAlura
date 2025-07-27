@@ -1,0 +1,1 @@
+alter table topicos CHANGE dataCriacao data_criacao datetime not null;
